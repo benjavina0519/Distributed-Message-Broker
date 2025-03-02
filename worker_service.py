@@ -58,7 +58,7 @@ def extract_financial_data(raw_text):
     prompt = f"""
     You are a financial data extraction system.
     Given the following text, extract and return the data in JSON format with keys:
-    company, metric, value, currency, quarter.
+    company, metric, value (eg, "$5.3 million" = 5300000), currency (USD, AUD, EUR, etc), quarter.
     
     Text:
     {raw_text}
