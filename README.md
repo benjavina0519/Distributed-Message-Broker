@@ -199,7 +199,3 @@ If you get quota exceeded (429):
 - MongoDB Docs → https://www.mongodb.com/docs/manual/  
 - OpenAI API Docs → https://platform.openai.com/docs/  
 
----
-
-This is the plain text version of your README file. Let me know if you need any modifications! 🚀
-
